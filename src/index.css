@@ -1,0 +1,9 @@
+@import "reset.css";
+
+.root-wrap {
+  position: relative;
+  width: 100%;
+  min-height: 100%;
+
+  /*border: 1px red solid;*/
+}
